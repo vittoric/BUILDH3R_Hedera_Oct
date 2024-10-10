@@ -1,6 +1,8 @@
 # BUILDH3R_Hedera_Oct
 
-gitpod - https://github.com/hedera-dev/five-minute-token-launch-challenge
+1. Five Minute Hedera Token Service Launch Challenge
+
+URL: https://hashscan.io/testnet/transaction/0.0.4967701@1728486651.439413556
 
 ![imagen](https://github.com/user-attachments/assets/cd3d1ebb-fb36-491f-923d-bc8352bf82b0)
 
