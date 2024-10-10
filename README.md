@@ -37,28 +37,31 @@ Metrics:
 
 
 ## 2. Hello World - HCS: Topic
+Hashscan URL from the HCS topic output. :
+
 https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558 
 
+<img width="433" alt="Has completed a task true" src="https://github.com/user-attachments/assets/91fc4578-cad2-4f3d-a959-a2bbb3206c92">
 
 🔢 Summary metrics  …
 
-*Has completed a task: true
-*First task completed ID: transferHbar
-*Time to first task completion: 16min 59.8s
-Time to all tasks completion: 16min 59.8s
-Total number of task completions: 1
+* Has completed a task: true
+* First task completed ID: transferHbar
+* Time to first task completion: 16min 59.8s
+* Time to all tasks completion: 16min 59.8s
+* Total number of task completions: 1
 
-Completed tasks: 1
-(1) Task ID: transferHbar (latest)
-Time taken to complete (first): 54.3s
-Time taken to complete (latest): 54.3s
-Errors prior to completion: 0
+* Completed tasks: 1
+* (1) Task ID: transferHbar (latest)
+* Time taken to complete (first): 54.3s
+* Time taken to complete (latest): 54.3s
+* Errors prior to completion: 0
 
-Attempted but incomplete tasks: 0
+* Attempted but incomplete tasks: 0
 
-View HCS metrics on HashScan:
- https://hashscan.io/testnet/topic/0.0.4573319 
-Using the anonymised key: ede7bd09a001a159cec092f5331e4e15
+* View HCS metrics on HashScan:
+ * https://hashscan.io/testnet/topic/0.0.4573319 
+* Using the anonymised key: ede7bd09a001a159cec092f5331e4e15
 
 ## 3.Hello World - HSCS: Smart Contracts
 
