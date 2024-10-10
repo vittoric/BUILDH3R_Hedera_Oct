@@ -36,6 +36,8 @@ Token URL: https://hashscan.io/testnet/token/0.0.4967718
 * Using the anonymised key: dafe9ce74ae856585a432d46dc2f84d5
 
 
+
+
 ## 2. Hello World - HCS: Topic
 Hashscan URL from the HCS topic output :
 https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558
@@ -43,7 +45,7 @@ https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558
 <img width="1157" alt="imagen" src="https://github.com/user-attachments/assets/4bfd64c1-cc2f-45c1-9fda-4e541098cbf8">
 
 
-# Summary
+### Metrics
 
 <img width="433" alt="Has completed a task true" src="https://github.com/user-attachments/assets/91fc4578-cad2-4f3d-a959-a2bbb3206c92">
 
@@ -67,6 +69,9 @@ https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558
  * https://hashscan.io/testnet/topic/0.0.4573319 
 * Using the anonymised key: ede7bd09a001a159cec092f5331e4e15
 
+
+
+
 ## 3.Hello World - HSCS: Smart Contracts
 
 Hashscan URL from the smart contract output: 
@@ -76,7 +81,7 @@ https://hashscan.io/testnet/contract/0x19ab3cb8a44DC5f4EB804cd82B6bC7cfa4Cef831?
 <img width="1150" alt="imagen" src="https://github.com/user-attachments/assets/4f32e58d-fc15-4e2b-bf65-b70bb7ba9ab3">
 
 
-# Metrics
+### Metrics
 
 <img width="426" alt="Has completed task true" src="https://github.com/user-attachments/assets/e16f03e8-6dcb-476e-914b-85a1bd9f46f6">
 
