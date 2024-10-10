@@ -37,9 +37,13 @@ Metrics:
 
 
 ## 2. Hello World - HCS: Topic
-Hashscan URL from the HCS topic output. :
+Hashscan URL from the HCS topic output :
+https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558
 
-https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558 
+<img width="1157" alt="imagen" src="https://github.com/user-attachments/assets/4bfd64c1-cc2f-45c1-9fda-4e541098cbf8">
+
+
+# Summary
 
 <img width="433" alt="Has completed a task true" src="https://github.com/user-attachments/assets/91fc4578-cad2-4f3d-a959-a2bbb3206c92">
 
