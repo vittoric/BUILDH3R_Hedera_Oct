@@ -17,11 +17,11 @@ Metrics:
 
 🔢 Summary metrics  …
 
-Has completed a task: true
-First task completed ID: 5minHtsTokenLaunchChallenge
-Time to first task completion: 6min 26.5s
-Time to all tasks completion: 6min 26.5s
-Total number of task completions: 1
+* Has completed a task: true
+* First task completed ID: 5minHtsTokenLaunchChallenge
+* Time to first task completion: 6min 26.5s
+* Time to all tasks completion: 6min 26.5s
+* Total number of task completions: 1
 
 Completed tasks: 1
 (1) Task ID: 5minHtsTokenLaunchChallenge (latest)
