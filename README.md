@@ -69,31 +69,39 @@ https://hashscan.io/testnet/transaction/0.0.4967747@1728487937.333921558
 
 ## 3.Hello World - HSCS: Smart Contracts
 
+Hashscan URL from the smart contract output: 
+
 https://hashscan.io/testnet/contract/0x19ab3cb8a44DC5f4EB804cd82B6bC7cfa4Cef831?ps=1&pr=1&p=1&k=1728489087.155718788
 
+<img width="1150" alt="imagen" src="https://github.com/user-attachments/assets/4f32e58d-fc15-4e2b-bf65-b70bb7ba9ab3">
+
+
+# Metrics
+
+<img width="426" alt="Has completed task true" src="https://github.com/user-attachments/assets/e16f03e8-6dcb-476e-914b-85a1bd9f46f6">
 
 
 
 🔢 Summary metrics  …
 
-Has completed a task: true
-First task completed ID: transferHbar
-Time to first task completion: 16min 59.8s
-Time to all tasks completion: 35min 17.3s
-Total number of task completions: 2
+* Has completed a task: true
+* First task completed ID: transferHbar
+* Time to first task completion: 16min 59.8s
+* Time to all tasks completion: 35min 17.3s
+* Total number of task completions: 2
 
-Completed tasks: 2
-(1) Task ID: transferHbar 
-Time taken to complete (first): 54.3s
-Time taken to complete (latest): 54.3s
-Errors prior to completion: 0
-(2) Task ID: hscsSC (latest)
-Time taken to complete (first): 28.7s
-Time taken to complete (latest): 28.7s
-Errors prior to completion: 0
+* Completed tasks: 2
+* (1) Task ID: transferHbar 
+* Time taken to complete (first): 54.3s
+* Time taken to complete (latest): 54.3s
+* Errors prior to completion: 0
+* (2) Task ID: hscsSC (latest)
+* Time taken to complete (first): 28.7s
+* Time taken to complete (latest): 28.7s
+* Errors prior to completion: 0
 
-Attempted but incomplete tasks: 0
+* Attempted but incomplete tasks: 0
 
-View HCS metrics on HashScan:
- https://hashscan.io/testnet/topic/0.0.4573319 
-Using the anonymised key: ede7bd09a001a159cec092f5331e4e15
+* View HCS metrics on HashScan:
+ * https://hashscan.io/testnet/topic/0.0.4573319 
+* Using the anonymised key: ede7bd09a001a159cec092f5331e4e15
